@@ -1,0 +1,41 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CycPhoenix/Music-Bot.git"
+  },
+  "author": "CycPhoenix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CycPhoenix/Music-Bot/issues"
+  },
+  "homepage": "https://github.com/CycPhoenix/Music-Bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.3.0",
+    "bufferutil": "^4.0.6",
+    "canvas": "^2.9.1",
+    "canvas-constructor": "^5.0.2",
+    "discord-api-types": "^0.30.0",
+    "discord-music-player": "^8.3.1",
+    "discord.js": "^13.6.0",
+    "discordjs-button-pagination": "^3.0.1",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.8",
+    "pretty-ms": "^7.0.1",
+    "seconds-formater": "^1.2.0",
+    "uninstall": "^0.0.0",
+    "utf-8-validate": "^5.0.9",
+    "util": "^0.12.4",
+    "ytdl-core": "^4.11.0"
+  }
+}
